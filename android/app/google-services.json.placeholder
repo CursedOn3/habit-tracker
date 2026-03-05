@@ -1,0 +1,11 @@
+// This is a generated file; do not edit or check into version control.
+// It is replaced by FlutterFire CLI or manual Firebase setup.
+
+// PLACEHOLDER - Replace with actual google-services.json from Firebase Console
+// Download from: https://console.firebase.google.com
+// Project Settings > Your Apps > Android App > google-services.json
+// Place in: android/app/google-services.json
+
+// NOTE: This file should NOT be committed to version control if it contains real credentials.
+// For CI/CD: Use environment variable GOOGLE_SERVICES_JSON_BASE64:
+//   echo $GOOGLE_SERVICES_JSON_BASE64 | base64 -d > android/app/google-services.json
