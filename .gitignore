@@ -1,4 +1,16 @@
+# Firebase credentials - NEVER commit
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+lib/firebase_options.dart
+
+# Signing
+android/key.properties
+upload-keystore.jks
+*.jks
+*.keystore
+
 # Miscellaneous
+tmpclaude*
 *.class
 *.lock
 *.log
